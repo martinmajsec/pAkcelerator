@@ -1,2 +1,2 @@
 # pAkcelerator
-- Tasks for round 3 and 4 for the pAkcelerator coding competition.
+- Tasks i wrote for round 3 and 4 of the pAkcelerator coding competition.
